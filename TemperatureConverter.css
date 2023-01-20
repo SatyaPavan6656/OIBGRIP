@@ -1,0 +1,64 @@
+body {
+  background-color: #b0e0e6;
+    text-align: center;
+    width: 100%;
+  }
+  
+  input[type="number"] {
+    width: 80px;
+  }
+  
+  select {
+    width: 100px;
+  }
+.main{
+  background-color: white;
+  margin-top: 150px;
+  margin-left: 300px;
+  margin-right: 400px;
+  width: 500px;
+  height: 270px;
+}
+#head{
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.txt{
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#temperature{
+  margin-left: 50px;
+  width: 90px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+#Type{
+  margin-left: 70px;
+  border-radius: 5px;
+  border: none;
+}
+.txt1{
+  text-align: left;
+  padding-left: 150px;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.txt2{
+  text-align: left;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  padding-left: 170px;
+}
+#btn{
+  width: 400px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  border: white;
+  cursor: pointer;
+}
